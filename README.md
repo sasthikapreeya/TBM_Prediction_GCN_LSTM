@@ -3,7 +3,7 @@
 
 This project focuses on developing a predictive model for Tunnel Boring Machine (TBM) control parameters using time-series data and a hybrid deep learning architecture.
 
-## 🚧 Project Overview
+## Project Overview
 
 - **Objective:** Predict the horizontal deviation angle (HDA) of a Tunnel Boring Machine during excavation, based on real-time machine sensor data.
 - **Techniques Used:** 
@@ -13,7 +13,7 @@ This project focuses on developing a predictive model for Tunnel Boring Machine 
   - Causal discovery (PCMCI)
 - **Tools:** Python, TensorFlow, Keras, StellarGraph, Scikit-learn, Pandas, Matplotlib
 
-## 🧠 Methodology
+## Methodology
 
 1. **Data Preprocessing:**
    - Combined over 200 TBM ring log files
@@ -32,16 +32,16 @@ This project focuses on developing a predictive model for Tunnel Boring Machine 
 
 > *Note: Metrics based on scaled inverse predictions over a held-out test set.*
 
-## 📉 Results
+## Results
 
 The model successfully captured both spatial and temporal dependencies in the TBM's control data. It demonstrated high accuracy in predicting directional deviations, aiding in tunnel guidance system precision.
 
-## 🔒 Code and Data
+## Code and Data
 
 The full source code and dataset are not publicly included due to confidentiality and project constraints.  
 *Please contact me directly if you'd like to learn more.*
 
-## 📌 Author
+## Author
 
 Sasthikapreeya Ponnarasu  
 *AI Engineer | Predictive Modeling | Time-Series ML*
